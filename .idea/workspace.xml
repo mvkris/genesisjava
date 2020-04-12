@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="475194a5-0747-43e2-8408-f237085682be" name="Default Changelist" comment="" />
+    <list default="true" id="475194a5-0747-43e2-8408-f237085682be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,18 +16,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZtvjfJClgUAoCRBgGy5eonbF7e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/hw2" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Newarea">
+  <component name="RunManager" selected="Application.Wallpapers">
     <configuration name="Area" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Area" />
       <module name="Genesis" />
@@ -78,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Summ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Summ" />
+    <configuration name="Wallpapers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hw2.Wallpapers" />
       <module name="Genesis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="hw2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Wallpapers" />
         <item itemvalue="Application.Newarea" />
         <item itemvalue="Application.Area" />
         <item itemvalue="Application.Paralelogram" />
         <item itemvalue="Application.MyNumber" />
-        <item itemvalue="Application.Summ" />
       </list>
     </recent_temporary>
   </component>
@@ -115,30 +122,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1586367295787">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1586422489444">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586367295787" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1586367295787">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586422489444" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1586422489443">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586367295787" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1586367295787">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586422489443" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1586422489443">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586367295787" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1586367295787">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586422489443" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1586422489444">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586367295787" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586422489444" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1585671565015">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585671565015" />
-    <state x="209" y="33" key="new project wizard" timestamp="1585671781696">
+    <state x="209" y="33" key="new project wizard" timestamp="1586422476939">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585671781696" />
+    <state x="209" y="33" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1586422476939" />
     <state x="431" y="145" key="search.everywhere.popup" timestamp="1585671500553">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
